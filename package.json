@@ -4,10 +4,10 @@
   "description": "Bot for Discord app",
   "readme": "README.md",
   "maintainers": [],
-  "author": "",
+  "author": "Corsairer",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Corsairer/Cyrus"
   },
   "license": "GPL-2.0",
   "dependencies": {
